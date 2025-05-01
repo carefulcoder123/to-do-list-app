@@ -99,7 +99,6 @@
       margin: 40px auto 20px auto; /* top auto bottom auto = vertical space + horizontal center */
       padding: 15px;
     }
-  }
   
     .header {
       flex-direction: column;
